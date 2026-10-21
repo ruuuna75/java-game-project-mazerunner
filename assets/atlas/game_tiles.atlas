@@ -1,0 +1,13 @@
+game_tiles.png
+size:128,32
+repeat:none
+entry
+bounds:56,2,16,16
+exit
+bounds:74,2,16,16
+substance
+bounds:2,2,16,16
+trap
+bounds:20,2,16,16
+wall
+bounds:38,2,16,16

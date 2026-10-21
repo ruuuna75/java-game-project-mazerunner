@@ -1,0 +1,22 @@
+{
+MOVE_UP: {
+	class: java.lang.Integer
+	value: 51
+}
+MOVE_DOWN: {
+	class: java.lang.Integer
+	value: 35
+}
+MOVE_LEFT: {
+	class: java.lang.Integer
+	value: 32
+}
+MOVE_RIGHT: {
+	class: java.lang.Integer
+	value: 13
+}
+RUN: {
+	class: java.lang.Integer
+	value: 48
+}
+}
