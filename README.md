@@ -25,9 +25,6 @@ I was mainly responsible for:
 - Git
 - GitHub
 
-## Source Code
-The source code is not publicly available due to university course restrictions.
-
 # 日本語
 
 ## 概要
@@ -54,6 +51,3 @@ Technical University of Munichの授業で、4人のチームで開発したJava
 - Git
 - GitHub
 
-## ソースコードについて
-
-大学の授業プロジェクトのため、ソースコードは公開していません。
